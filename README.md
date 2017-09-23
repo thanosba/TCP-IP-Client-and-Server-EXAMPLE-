@@ -1,4 +1,4 @@
-# C - TCP-IP-Client-and-Server
+# C programming -TCP/IP Client and Server
 C programming -TCP/IP Client and Server 
 
 
